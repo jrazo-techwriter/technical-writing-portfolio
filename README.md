@@ -1,10 +1,5 @@
 # technical-writing-portfolio
-How to Export from Ulysses to Markdown:
-Open your article in Ulysses
-Click File > Export > Text
-Choose Markdown format
-Save the .md file
----
+
 
 ## 🧠 Topics I Write About
 - Solana, Ethereum, and smart contract ecosystems
