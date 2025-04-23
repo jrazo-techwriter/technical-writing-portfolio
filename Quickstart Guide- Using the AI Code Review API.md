@@ -1,12 +1,12 @@
 # Quickstart Guide: Using the AI Code Review API
 ## Overview
 This guide walks you through integrating the AI Code Review API into your development workflow. You’ll learn how to authenticate, submit a code snippet for review, and retrieve analysis results using basic HTTP requests.
-This example uses uses `‘’’curl’’’`, but the same structure applies to any HTTP client (e.g., Postman, Python  `‘’’requests’’’`, JavaScript  `‘’’fetch’’’`
-### Prerequisites 
+This example uses `curl, but the same structure applies to any HTTP client (e.g., Postman, Python  requests, JavaScript  fetch
+`### Prerequisites 
 Before you begin, ensure you have the following:
 - An active API key from AI Code Check
-- `‘’’curl’’’`  , installed (or Postman/Insomnia/etc.)
-- A code snippet to test (Rust, Solidity, JavaScript, Python supported)
+- `curl, installed (or Postman/Insomnia/etc.)
+	`- A code snippet to test (Rust, Solidity, JavaScript, Python supported)
 
 ### Step 1: Authenticate
 Use your API key to generate an across token.
@@ -21,8 +21,8 @@ Example Response
 	“access_token”: “abc123xyz456token”,_
 	“expires_in”: 3600_
 	}
-Save your token – you’ll need it in the `‘’’Authorization’’’` header for all requests.
-Step 2: Submit Code for Review 
+Save your token – you’ll need it in the `Authorization header for all requests.
+`Step 2: Submit Code for Review 
 Once you have a token, submit your source code along with the language identifier.
 	bash
 	'''`curl -X POST https://api.aicodecheck.com/v1/review/submit \`
