@@ -1,7 +1,7 @@
 # **Getting Started with the Solana JS SDK**
 
 Overview
-The Solana JavaScript SDK** (@solana/web3.js)** is a powerful library that allows developers to interact with the Solana blockchain directly from JavaScript-based applications. Whether you’re building a web-based dApp or working with **Node.js**, this guide will walk you through setting up your development environment, connecting to the network, and executing your first transaction.
+The Solana JavaScript SDK (@solana/web3.js) is a powerful library that allows developers to interact with the Solana blockchain directly from JavaScript-based applications. Whether you’re building a web-based dApp or working with Node.js, this guide will walk you through setting up your development environment, connecting to the network, and executing your first transaction.
 
 ---- 
 
