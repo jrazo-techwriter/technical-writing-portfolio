@@ -1,7 +1,4 @@
-Joseph Razo
-
-
-technical-writing-portfolio
+Joseph Razo-Technical-Writing-Portfolio 
 
 🧠 Topics I Write About
 
