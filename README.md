@@ -1,4 +1,6 @@
 Joseph Razo
+
+
 technical-writing-portfolio
 
 🧠 Topics I Write About
