@@ -1,3 +1,4 @@
+Joseph Razo
 technical-writing-portfolio
 
 🧠 Topics I Write About
@@ -9,4 +10,6 @@ Onboarding docs, user guides, API tutorials
 🔗 More Work & Contact
 
 💼 LinkedIn: www.linkedin.com/in/j-razo-b560bb281
+
+
 📬 Email: j.razo7869@gmail.com
